@@ -1,0 +1,10 @@
+.product{
+    border : 1px solid BLACK;
+    border-radius: 20px;
+    margin-bottom:15px;
+    /* padding:0 10px 0 10px; */
+    margin-left:10px;
+    width: 200px;
+    height:160px
+    /* background-color: peachpuff; */
+}

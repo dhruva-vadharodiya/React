@@ -1,0 +1,15 @@
+.ticket{
+    border:1px solid pink;
+    border-radius: 15px;
+    text-align: center;
+    width: 200px;
+    background-color: rgb(113, 249, 228);
+    font-weight: 800;
+}
+.p{
+    font-weight: 600;
+    font-size: larger;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}

@@ -1,0 +1,34 @@
+.SearchBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.SearchBox h3 {
+    color: #3f51b5;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.cityInput {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.searchButton {
+    background-color: #3f51b5;
+    color: #fff;
+    width: 100%;
+    height: 50px;
+}
+
+.searchButton:hover {
+    background-color: #303f9f;
+}
